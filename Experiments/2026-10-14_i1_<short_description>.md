@@ -24,7 +24,7 @@ Issue [#1](https://github.com/KatRinconess/tfcdb_2026_demo/issues/1)
 7. Add appropriate amount of dynabeads
 8. Add media to set concentration to 1E6 cells/mL 
 9. Plate 1mL of cells in each well of a 24-well plate
-10. Place plate in 37C incubator for 48 hours before removing dynabeads
+10. Place plate in 37C incubator for 48 hours before removing dynabeads from culture 
 
 ## Results
 
